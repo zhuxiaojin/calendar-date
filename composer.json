@@ -1,6 +1,6 @@
 {
     "name": "zhuxiaojin/calendar-date",
-    "license": "mit",
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
