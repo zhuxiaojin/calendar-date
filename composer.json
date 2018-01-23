@@ -1,5 +1,10 @@
 {
     "name": "storm/calendar-date",
     "license": "mit",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/"
+        }
+    }
 }
