@@ -1,5 +1,6 @@
 {
     "name": "zhuxiaojin/calendar-date",
+    "description":"日期转换为农历时间",
     "license": "MIT",
     "require": {},
     "autoload": {
