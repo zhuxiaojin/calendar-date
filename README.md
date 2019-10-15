@@ -1,7 +1,7 @@
 # calendar-date
 当前时间转换为阴历
 ### 安装
-    composer require calendar-date dev-master
+    composer require zhuxiaojin/calendar-date dev-master
 
 ### 实例化对象
 
